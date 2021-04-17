@@ -1,0 +1,2 @@
+# LeetCode
+solutions and thinking
